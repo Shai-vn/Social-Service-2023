@@ -1,2 +1,2 @@
 # Social-Service-2023
-"Analysis of tweets for depression detection"
+Repository about my social service: "Analysis of tweets for depression detection"
